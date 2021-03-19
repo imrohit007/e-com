@@ -22,7 +22,7 @@ django-heroku==0.3.1
 django-rest-auth==0.9.5
 django-six==1.0.4
 django-toolbelt==0.0.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 entrypoints==0.3
 enum34==1.1.6
 fasteners==0.12.0
